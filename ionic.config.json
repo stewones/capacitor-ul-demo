@@ -1,0 +1,7 @@
+{
+  "name": "cap-android-ul",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
