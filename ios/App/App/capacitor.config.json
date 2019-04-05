@@ -1,6 +1,6 @@
 {
-  "appId": "io.capacitor.starter",
-  "appName": "capacitor-ul",
+  "appId": "io.ionic.starter",
+  "appName": "cap-android-ul",
   "bundledWebRuntime": false,
   "webDir": "www",
   "server": {
